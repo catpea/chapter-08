@@ -9,5 +9,6 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Real Education First](docs/poem-1316.mp3)
 - [Three Ways To Reliably Attach Your Tail: Superhero, Cosplay, And Halloween Advice](docs/poem-1315.mp3)
 
