@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Easy Peasy Fitness](docs/poem-1321.mp3)
 - [Paint-overs and Color Picking](docs/poem-1320.mp3)
 - [The Beast End; Or, Hitting A Workout Plateau](docs/poem-1319.mp3)
 - [Walking: A Cute Little Weight Loss Program That Changes Lives](docs/poem-1318.mp3)
