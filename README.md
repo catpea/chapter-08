@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Beginning Digital Painting: Just Paint Confusing Shapes In Black And White To See Them Better](docs/poem-1322.mp3)
 - [Easy Peasy Fitness](docs/poem-1321.mp3)
 - [Paint-overs and Color Picking](docs/poem-1320.mp3)
 - [The Beast End; Or, Hitting A Workout Plateau](docs/poem-1319.mp3)
