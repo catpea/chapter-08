@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Uptime; Or, What Will Self Aware Artificial General Intelligence Want From Us?](docs/poem-1325.mp3)
 - [Awakening The Torch of Human Greatness](docs/poem-1324.mp3)
 - [So As Long As You Remember To Take To The Stars](docs/poem-1323.mp3)
 - [Beginning Digital Painting: Just Paint Confusing Shapes In Black And White To See Them Better](docs/poem-1322.mp3)
