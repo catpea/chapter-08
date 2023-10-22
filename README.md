@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Wisdom; Or, All The Right Humanity Has Ever Had](docs/poem-1329.mp3)
 - [On The Art Apocalypse](docs/poem-1328.mp3)
 - [The Super Simple Power Workout That Delivers Visible Weekly Results](docs/poem-1327.mp3)
 - [For Growing Up, And Against Fear, And Isolation](docs/poem-1326.mp3)
