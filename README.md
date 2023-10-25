@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [It Takes A Backpack To Hear A Book](docs/poem-1332.mp3)
 - [The Flight Of The Mocking Birds](docs/poem-1331.mp3)
 - [Beginning Generative AI: Two Tiny Tips For Graphics And Text Generation](docs/poem-1330.mp3)
 - [Wisdom; Or, All The Right Humanity Has Ever Had](docs/poem-1329.mp3)
