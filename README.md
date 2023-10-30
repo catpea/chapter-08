@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [The Power Of The Third Hour; Or; How To Become Young And Mighty Again](docs/poem-1337.mp3)
 - [Cat Owners Beware: Hunter’s Moon May Earn You A Scare](docs/poem-1336.mp3)
 - [Girl Lions Should Have The Fancy Hair - It Is Unfair](docs/poem-1335.mp3)
 - [Ancient Werewolf Wisdom: If You Got A Tailbone...](docs/poem-1334.mp3)
