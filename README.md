@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [The Stopwatch And The Impossible Reward](docs/poem-1340.mp3)
 - [Reimagination](docs/poem-1339.mp3)
 - [Turning Generative Art Into A Super Tiny Little Business](docs/poem-1338.mp3)
 - [The Power Of The Third Hour; Or; How To Become Young And Mighty Again](docs/poem-1337.mp3)
