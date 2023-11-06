@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [A Letter From Socrates](docs/poem-1344.mp3)
 - [Why, Oh Why, Can’t We Just Work And Die](docs/poem-1343.mp3)
 - [Joggers Beware: I Dare To Declare You Are Unaware How To Wear Your Underwear](docs/poem-1342.mp3)
 - [The Outside Of The World](docs/poem-1341.mp3)
