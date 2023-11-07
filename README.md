@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Smartly Bonkers; Or, How To Dress For The Gym And Other Unusual Places](docs/poem-1345.mp3)
 - [A Letter From Socrates](docs/poem-1344.mp3)
 - [Why, Oh Why, Can’t We Just Work And Die](docs/poem-1343.mp3)
 - [Joggers Beware: I Dare To Declare You Are Unaware How To Wear Your Underwear](docs/poem-1342.mp3)
