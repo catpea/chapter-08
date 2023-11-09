@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Knowledge, Slides; Or, Real Knowledge Is Connected And Marked By Personal Curiosity](docs/poem-1347.mp3)
 - [Jogger Wisdom](docs/poem-1346.mp3)
 - [Smartly Bonkers; Or, How To Dress For The Gym And Other Unusual Places](docs/poem-1345.mp3)
 - [A Letter From Socrates](docs/poem-1344.mp3)
