@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Eight Hours Of Programming Alongside A Robot](docs/poem-1351.mp3)
 - [Every Human Being Is Meant To Become A Powerful Philosopher](docs/poem-1350.mp3)
 - [The Island Birds Of A Feather](docs/poem-1349.mp3)
 - [Are Schools Working?](docs/poem-1348.mp3)
