@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Knowledge And Wisdom Is Personal, School Is Just Paychecks And Politics](docs/poem-1353.mp3)
 - [Into The Future; Or, Visual Programming Languages And Artificial Intelligence](docs/poem-1352.mp3)
 - [Eight Hours Of Programming Alongside A Robot](docs/poem-1351.mp3)
 - [Every Human Being Is Meant To Become A Powerful Philosopher](docs/poem-1350.mp3)
