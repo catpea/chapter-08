@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Rediscovering Socks; Or, Are Achy Feet A Thing Of The Past?](docs/poem-1354.mp3)
 - [Knowledge And Wisdom Is Personal, School Is Just Paychecks And Politics](docs/poem-1353.mp3)
 - [Into The Future; Or, Visual Programming Languages And Artificial Intelligence](docs/poem-1352.mp3)
 - [Eight Hours Of Programming Alongside A Robot](docs/poem-1351.mp3)
