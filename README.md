@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Artificial Alien Intelligence And Brilliant New Futures](docs/poem-1356.mp3)
 - [What Does Fake Education Look Like?](docs/poem-1355.mp3)
 - [Rediscovering Socks; Or, Are Achy Feet A Thing Of The Past?](docs/poem-1354.mp3)
 - [Knowledge And Wisdom Is Personal, School Is Just Paychecks And Politics](docs/poem-1353.mp3)
