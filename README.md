@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Five True Facts About Geese; Or, When You See Michigan Geese You Might Want To Call The Police](docs/poem-1357.mp3)
 - [Artificial Alien Intelligence And Brilliant New Futures](docs/poem-1356.mp3)
 - [What Does Fake Education Look Like?](docs/poem-1355.mp3)
 - [Rediscovering Socks; Or, Are Achy Feet A Thing Of The Past?](docs/poem-1354.mp3)
