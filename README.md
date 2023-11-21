@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [In Search For Greatness](docs/poem-1359.mp3)
 - [A Fistful Of Pickles; Or, Programming Stuff Shouldn't Take Very Long](docs/poem-1358.mp3)
 - [Five True Facts About Geese; Or, When You See Michigan Geese You Might Want To Call The Police](docs/poem-1357.mp3)
 - [Artificial Alien Intelligence And Brilliant New Futures](docs/poem-1356.mp3)
