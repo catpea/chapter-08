@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Surprise Holidays](docs/poem-1361.mp3)
 - [Lone Wolf Programming; And, The Older You Wants You To Learn To Code](docs/poem-1360.mp3)
 - [In Search For Greatness](docs/poem-1359.mp3)
 - [A Fistful Of Pickles; Or, Programming Stuff Shouldn't Take Very Long](docs/poem-1358.mp3)
