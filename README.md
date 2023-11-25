@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [The Geese Have Begun Watching Us](docs/poem-1363.mp3)
 - [The Thanksgiving Programmer; Or, Making A GUI Out Of A VPL, FUI, And The ZUI](docs/poem-1362.mp3)
 - [Surprise Holidays](docs/poem-1361.mp3)
 - [Lone Wolf Programming; And, The Older You Wants You To Learn To Code](docs/poem-1360.mp3)
