@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Three Apples A Day; Or, Understanding Workout Duration](docs/poem-1367.mp3)
 - [Programming: The Most Powerful Thing You Can Learn](docs/poem-1366.mp3)
 - [The Ghost Is In The Machine](docs/poem-1365.mp3)
 - [Lift Light To Rest; Or, Don't Ruin Your Workout By Stopping](docs/poem-1364.mp3)
