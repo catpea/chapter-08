@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Find The Real Philosophers](docs/poem-1369.mp3)
 - [Meaning Of Life, And Why We Are Here, Explained](docs/poem-1368.mp3)
 - [Three Apples A Day; Or, Understanding Workout Duration](docs/poem-1367.mp3)
 - [Programming: The Most Powerful Thing You Can Learn](docs/poem-1366.mp3)
