@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [How To Use Nail Clippers To Disgust A Cranky Bear With Food On The Mind](docs/poem-1371.mp3)
 - [Wisdom Demands Adventure](docs/poem-1370.mp3)
 - [Find The Real Philosophers](docs/poem-1369.mp3)
 - [Meaning Of Life, And Why We Are Here, Explained](docs/poem-1368.mp3)
