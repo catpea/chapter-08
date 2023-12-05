@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Modern Day Wizards; Or, If You Like Cats And Spell Casting, Become A Programmer Today](docs/poem-1373.mp3)
 - [The New Designer; Or, Artificial Intelligence And The New Era Of Graphic Design](docs/poem-1372.mp3)
 - [How To Use Nail Clippers To Disgust A Cranky Bear With Food On The Mind](docs/poem-1371.mp3)
 - [Wisdom Demands Adventure](docs/poem-1370.mp3)
