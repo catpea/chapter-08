@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Growing Up With Artificial Intelligence](docs/poem-1375.mp3)
 - [Understanding Visual Programming](docs/poem-1374.mp3)
 - [Modern Day Wizards; Or, If You Like Cats And Spell Casting, Become A Programmer Today](docs/poem-1373.mp3)
 - [The New Designer; Or, Artificial Intelligence And The New Era Of Graphic Design](docs/poem-1372.mp3)
