@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [The Third Thought; Or, The New Machines Can Think Enough](docs/poem-1377.mp3)
 - [Brilliant Expression And Self Education](docs/poem-1376.mp3)
 - [Growing Up With Artificial Intelligence](docs/poem-1375.mp3)
 - [Understanding Visual Programming](docs/poem-1374.mp3)
