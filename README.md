@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [What The Michigan Birds Have Been Up To](docs/poem-1378.mp3)
 - [The Third Thought; Or, The New Machines Can Think Enough](docs/poem-1377.mp3)
 - [Brilliant Expression And Self Education](docs/poem-1376.mp3)
 - [Growing Up With Artificial Intelligence](docs/poem-1375.mp3)
