@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Become A Programmer; Or, Learn For Real Because Discomfort May Just Be A Sign Of A Fake School](docs/poem-1381.mp3)
 - [What Does Programming Feel Like?](docs/poem-1380.mp3)
 - [Sky Shadow](docs/poem-1379.mp3)
 - [What The Michigan Birds Have Been Up To](docs/poem-1378.mp3)
