@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [The History Of Our Greatest Heights; Or, Why We Will Always Need Philosophy](docs/poem-1384.mp3)
 - [The Friendly Superpower Of Reactive Programming](docs/poem-1383.mp3)
 - [Fitness Myths: Diet, Sets & Reps, Machines, And A Real Shortcut](docs/poem-1382.mp3)
 - [Become A Programmer; Or, Learn For Real Because Discomfort May Just Be A Sign Of A Fake School](docs/poem-1381.mp3)
