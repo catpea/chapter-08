@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Bonkers Honkers; Or The Noise Of The Gaggle Convoys](docs/poem-1386.mp3)
 - [Don't Become Your Teacher’s Punch Line; Or, Philosophy And The Urgency Of Authentic Education](docs/poem-1385.mp3)
 - [The History Of Our Greatest Heights; Or, Why We Will Always Need Philosophy](docs/poem-1384.mp3)
 - [The Friendly Superpower Of Reactive Programming](docs/poem-1383.mp3)
