@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Life After AI; Or, Eternal Living, Forever Young](docs/poem-1388.mp3)
 - [A Tiny Look At The Wild Wild West Of Visual Programming](docs/poem-1387.mp3)
 - [Bonkers Honkers; Or, The Noise Of The Gaggle Convoys](docs/poem-1386.mp3)
 - [Don't Become Your Teacher’s Punch Line; Or, Philosophy And The Urgency Of Authentic Education](docs/poem-1385.mp3)
