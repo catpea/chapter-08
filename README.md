@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Every Computer Program Is Once A Beautiful Story As Clear As Day](docs/poem-1391.mp3)
 - [The Tiny Little Workout](docs/poem-1390.mp3)
 - [The Supremely Boring World Of Visual Programming & Diagramming Tools](docs/poem-1389.mp3)
 - [Life After AI; Or, Eternal Living, Forever Young](docs/poem-1388.mp3)
