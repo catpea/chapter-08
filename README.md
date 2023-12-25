@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Visual Programming Languages; Humanity's First Cybernetic Enhancement](docs/poem-1393.mp3)
 - [My Little Program](docs/poem-1392.mp3)
 - [Every Computer Program Is Once A Beautiful Story As Clear As Day](docs/poem-1391.mp3)
 - [The Tiny Little Workout](docs/poem-1390.mp3)
