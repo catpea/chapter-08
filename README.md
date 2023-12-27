@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Indoctrination, Education, And Prevention](docs/poem-1395.mp3)
 - [Hacking Holidays And Retro-futurism At The House Of Meow](docs/poem-1394.mp3)
 - [Visual Programming Languages; Humanity's First Cybernetic Enhancement](docs/poem-1393.mp3)
 - [My Little Program](docs/poem-1392.mp3)
