@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Visual Programming Done Right](docs/poem-1400.mp3)
 - [Resolution Meow; Or Get Buff, Fluff and Gruff](docs/poem-1399.mp3)
 - [Big Bada Obesity Boom!](docs/poem-1398.mp3)
 - [Programmer’s Retirement; Or, Don't Let The Office Slow You Down](docs/poem-1397.mp3)
