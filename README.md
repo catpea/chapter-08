@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Fever Dreams; Or, Artificial Intelligence Makes You A Powerful Fashion, Interior and User Interface Designer](docs/poem-1402.mp3)
 - [Retro Futurism To The Rescue; Or, Chasing All The Bugs](docs/poem-1401.mp3)
 - [Visual Programming Done Right](docs/poem-1400.mp3)
 - [Resolution Meow; Or Get Buff, Fluff and Gruff](docs/poem-1399.mp3)
