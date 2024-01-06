@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Programming On Principle; The Challenge To Bring Powerful Programming To All](docs/poem-1405.mp3)
 - [Programming Is Just A Fun Little Game](docs/poem-1404.mp3)
 - [What Else Can Today’s Artificial Intelligence Do?](docs/poem-1403.mp3)
 - [Fever Dreams; Or, Artificial Intelligence Makes You A Powerful Fashion, Interior and User Interface Designer](docs/poem-1402.mp3)
