@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Easy Introduction To Programming; And, Reactive Programming Explained](docs/poem-1406.mp3)
 - [Programming On Principle; The Challenge To Bring Powerful Programming To All](docs/poem-1405.mp3)
 - [Programming Is Just A Fun Little Game](docs/poem-1404.mp3)
 - [What Else Can Today’s Artificial Intelligence Do?](docs/poem-1403.mp3)
